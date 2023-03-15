@@ -1,0 +1,15 @@
+.clock {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+}
+
+.time {
+    font-weight: bold;
+}
+
+.date {
+    margin-top: 10px;
+    font-style: italic;
+}
